@@ -1,0 +1,7 @@
+# Pinhole intrinsics used by the original image-based ROI node.
+# Replace these values with the calibration of the RGB/depth input pair.
+camera_factor: 1.0
+camera_cx: 640.0
+camera_cy: 360.0
+camera_fx: 1466.0
+camera_fy: 1130.0

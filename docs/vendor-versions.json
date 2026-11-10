@@ -1,0 +1,47 @@
+[
+  {
+    "path": "LIO-SAM",
+    "repository": "https://github.com/TixiaoShan/LIO-SAM",
+    "commit": "0be1fbe6275fb8366d5b800af4fc8c76a885c869"
+  },
+  {
+    "path": "fast_gicp",
+    "repository": "https://github.com/koide3/fast_gicp",
+    "commit": "b1ff53f06f0a2fa6b6d84d6963766d4891000c3c"
+  },
+  {
+    "path": "isaac_sim_pointcloud_tool",
+    "repository": "https://github.com/liuxiao916/isaac_sim_pointcloud_tool",
+    "commit": "25c4df40035aad0e81693e22a3915b60e16a396f"
+  },
+  {
+    "path": "pointcloud2_merge",
+    "repository": "https://github.com/aaryanmurgunde/pointcloud2_merge",
+    "commit": "957190a618e07a0d5d119cc0950cb19adf79c813"
+  },
+  {
+    "path": "fast_gicp/thirdparty/Sophus",
+    "repository": "https://github.com/strasdat/Sophus",
+    "commit": "d63ad09177f6b99ba605d684bac7f4b8d6820f5a"
+  },
+  {
+    "path": "fast_gicp/thirdparty/nvbio",
+    "repository": "https://github.com/NVlabs/nvbio",
+    "commit": "9bb7e6363c65f65e46f21df09bef98e404250f10"
+  },
+  {
+    "path": "fast_gicp/thirdparty/pybind11",
+    "repository": "https://github.com/pybind/pybind11",
+    "commit": "0e01c243c7ffae3a2e52f998bacfe82f56aa96d9"
+  },
+  {
+    "path": "fast_gicp/thirdparty/Eigen",
+    "repository": "https://github.com/eigenteam/eigen-git-mirror",
+    "commit": "1fd5ce1002a6f30e1169b529b291216a18be2f7e"
+  },
+  {
+    "path": "NDT_scan_matching/autoware_messages",
+    "repository": "https://github.com/autowarefoundation/autoware_ai_messages",
+    "commit": "0a210c604176b0a77098507f6691d627a3249631"
+  }
+]

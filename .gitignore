@@ -1,0 +1,15 @@
+# Generated ROS workspaces and local experiment outputs
+build/
+devel/
+install/
+log/
+logs/
+.catkin_tools/
+__pycache__/
+*.py[cod]
+*.bag
+*.bag.active
+*.log
+.DS_Store
+Thumbs.db
+.thumbs/
